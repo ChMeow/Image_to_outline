@@ -3,6 +3,6 @@ Convert image / video to outline using the opencv edge detection.
 
 Result:
 
-https://github.com/user-attachments/assets/29530659-5ae5-43a3-a9a8-015143ebe1da
+https://github.com/user-attachments/assets/e3e0df26-1f24-472b-9ddd-c9b09c0e39d1
 
-Video source: https://www.youtube.com/watch?v=Sy-CYyfmO6g
+Original video: https://www.youtube.com/watch?v=Sy-CYyfmO6g
